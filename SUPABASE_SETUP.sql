@@ -25,4 +25,4 @@ VALUES (
   'lifetime',
   '2099-12-31 00:00:00+00',
   'Master key'
-) ON CONFLICT (key) DO NOTHING;1
+) ON CONFLICT (key) DO NOTHING;
